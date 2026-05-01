@@ -1,4 +1,4 @@
-<img src="https://iili.io/BImtQTl.md.jpg" width="200" height="200" title="White flower" alt="Flower"><br>
+<img src="https://iili.io/BImtQTl.md.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
 &ensp;&ensp;&ensp;&ensp;NURITION<br>
 &ensp;&ensp;&ensp;&ensp;1. Carbohydrates: They are the main<br>
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;source of energy in our body<br>
