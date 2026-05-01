@@ -19,13 +19,14 @@
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;or the other vitamins required by<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;our body, like whole grain cereals,<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;milk, fish, meat and vegetables.<br>
-   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Classification of Vitamins:All vitamins<br>
-   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;can be divided into two groups or<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Classification of Vitamins:All <br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;vitamins can be divided into two groups or<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;classes according to their solubility<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;in water and oils.<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Class 1: Vitamin A, D,E and K are<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;soluble in oil, also called fat<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;soluble vitamins.<br>
-   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Class 2: Vitamin B-complex and vitamin C<br>
-   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;are soluble in water, where vitamin B-<br>
-   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;complex represents a group of eleven vitamins<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Class 2: Vitamin B-complex and <br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;vitamin Care soluble in water, <br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;where vitamin B-complex represents <br>
+    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;a group of eleven vitamins<br>
