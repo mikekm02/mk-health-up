@@ -32,4 +32,17 @@
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;vitamin Care soluble in water,<br>
    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;where vitamin B-complex<br>
     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;represents a group of<br>
-     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;eleven vitamins<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;eleven vitamins.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Vitamin A:It is good eye-sight<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(specially the night vision),<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;normal skin and hair.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Milk, eggs, fish, butter,ghee<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; is also called ratinal.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Vitamin B1:It is essential for<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;growth, metabolism, carbohydrates,<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;functioning of heart, nerves<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;and muscles.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Sources are milk, sea-food,<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;grain cereals and soyabeans.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Chemical name is thianmane.<br>
+     
