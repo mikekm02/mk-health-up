@@ -1,8 +1,7 @@
 &ensp;&ensp;&ensp;&ensp;NURITION<br>
 &ensp;&ensp;&ensp;&ensp;1. Carbohydrates: They are the main<br>
   &ensp;&ensp;&ensp;&ensp;&ensp;source of energy in our body<b>
- &ensp;&ensp;&ensp;&ensp;&ensp; rice, honey, <br>
- &ensp;&ensp;&ensp;&ensp;&ensp;sugar, potatos,bread,<br>
+ &ensp;&ensp;&ensp;&ensp;&ensp;sugar, potatos,bread.<br>
   &ensp;&ensp;&ensp;&ensp;&ensp;yam, puris, roti.<br>
 &ensp;&ensp;&ensp;&ensp;2. Fat: They provide more energy <br>
     &ensp;&ensp;&ensp;&ensp;&ensp;than carbohydrate, because of <br>
