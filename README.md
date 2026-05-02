@@ -46,8 +46,8 @@
      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Sources are milk, sea-food,<br>
      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;grain cereals and soyabeans.<br>
      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Chemical name is thianmane.<br><br>
-     <img src="https://iili.io/BLGswmv.th.jpg" alt="BLGswmv.th.jpg"width="400" height="400" title="White flower" alt="Flower"><br>
-
+     <img src="https://iili.io/BLGswmv.th.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
+PORI
 
 
      
