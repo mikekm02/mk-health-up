@@ -48,7 +48,17 @@
      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Chemical name is thianmane.<br><br>
      <img src="https://iili.io/BLGswmv.th.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;PORI<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;What is Pori? 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;What is Pori?Puffed rice, <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;also called Pori or Murmura, <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;is quite a healthy snack. <br>
+<img src="https://iili.io/BLVCPea.th.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ROTI<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;What is roti? In regular terms <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Roti is called Indian Flat<br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Bread or Tortilla in English. <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Roti or Indian Flat bread is made<br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;of wheat flour/flour non fermented. <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Sometimes also known as Cappati.
 
 
      
