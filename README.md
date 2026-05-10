@@ -49,6 +49,21 @@
      <img src="https://iili.io/BLGswmv.th.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;PORI<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;What is Pori?Puffed rice, <br>
+
+
+
+philosophalyevel.com/gl(
+ps://www.metalevel.at/pro
+d1.acm.org/doi/10.l145/37
+/creating-custom-github-a
+lytorise.com/thoughts-hav
+'eating-a-personal-Website
+
+‘Verview-divorce-petition-t
+rise.com/thoughts-h
+https:/m.youtube.com/watch?v=5U8XgLiEFSQ
+
+ 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;also called Pori or Murmura, <br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;is quite a healthy snack. <br>
 <img src="https://iili.io/BLVCPea.th.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
