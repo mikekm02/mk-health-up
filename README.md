@@ -61,4 +61,152 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;non fermented. Sometimes also<br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;known as Cappati.<br>
 
+
+
+<img src="https://iili.io/BImtQTl.md.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
+&ensp;&ensp;&ensp;&ensp;NURITION<br>
+&ensp;&ensp;&ensp;&ensp;1. Carbohydrates: They are the main<br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;source of energy in our body<br>
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;sugar, potatos,bread, rice<br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;yam, puris, roti.<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;2. Fat: They provide more energy <br>
+    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;than carbohydrate, because of <br>
+    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;higher percentage of carbon and <br>
+    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;hydrogen and less oxygen <br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;than that of carbohydrate - oils, <br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;groundnuts, nuts, meat, milk, <br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ghee, butter and soyabin.<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;3. Vitamins:They are necessary for<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;normal growth, good health,<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;good vision, proper digestion,<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;healthy teeth, bones and gums.<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Almost all the foods contain one<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;or the other vitamins required by<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;our body, like whole grain cereals,<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;milk, fish, meat and vegetables.<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Classification of Vitamins:All <br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;vitamins can be divided into<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;two groups or<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;classes according to<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;their solubility in water<br> 
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;and oils.<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Class 1: Vitamin A, D,E and K are<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;soluble in oil, also called fat<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;soluble vitamins.<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Class 2: Vitamin B-complex and<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;vitamin Care soluble in water,<br>
+   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;where vitamin B-complex<br>
+    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;represents a group of<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;eleven vitamins.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Vitamin A:It is good eye-sight<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(specially the night vision),<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;normal skin and hair.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Milk, eggs, fish, butter,ghee<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; is also called ratinal.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Vitamin B1:It is essential for<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;growth, metabolism,<br> 
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;carbohydrates, nerves<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;functioning of heart<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;and muscles.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Sources are milk, sea-food,<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;grain cereals and soyabeans.<br>
+     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Chemical name is thianmane.<br><br>
+     <img src="https://iili.io/BLGswmv.th.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;PORI<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;What is Pori?Puffed rice, <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;also called Pori or Murmura, <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;is quite a healthy snack. <br>
+<img src="https://iili.io/BLVCPea.th.jpg" width="400" height="400" title="White flower" alt="Flower"><br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ROTI<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;What is roti? In regular terms <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Roti is called Indian Flat<br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Bread or Tortilla in English. <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Roti or Indian Flat bread is made<br> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Computer studies basic
+1.What is a GSM
+Phone? A GSM phone is
+a mobile device that
+operates on the Global
+System for Mobile
+Communications
+mobiledevice that
+operates on the Global
+System for Mobile
+Communications
+standard, a 2G digital
+technology designed for
+voice calls and text
+messaging (SMS). These
+phones use SIM cards to
+store userinformation,
+allowing for easy
+switching of devices and
+international roaming.
+GSM phones are widely
+used, particularly with
+carriers like AT&T and
+T-Mobile in the U
+Computer studies
+basic.
+1. What is
+a GSM Phone? A
+GSM phone is a
+mobile device that
+operates on the
+Global System for
+Mobile
+Communications
+mobiledevice that
+operates on the
+Global System for
+Mobile
+Communications
+standard, a ZG
+digital technology
+designed for voice
+calls and text
+messaging (SMS).
+These phones use
+SIM cards to store
+userinformation,
+allowing for easy
+switching of devices
+and international
+roaming. GSM
+phones are widely
+used, particularly
+with carriers like
+AT&T and T-Mobile
+
+
+
+ 
+
+ 
+
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;of wheat flour/flour<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;non fermented. Sometimes also<br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;known as Cappati.<br>
+
+     
+
+
      
